@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta content="text/html; charset=us-ascii" http-equiv="content-type" />
+    <title>WBX-Docker Plugin</title>
+    <link rel="stylesheet" href= "../../plugins/timeGate-1.0.0.7/pluginhelp.css" type="text/css" media= "screen" />
+</head>
+
+<body>
+    <div class="help">
+
+    <h1>Time Gate</h1>
+		<p>Plugin Version 1.0.0.7</p>
+    <hr style="margin-left: -10px; margin-top: 10px; height: 1px; width: 100%; color: #5981BD;" noshade="noshade" />
+
+    <p>Time Gate is a plugin example to display a use case of a time gate in a pipeline.</p>
+
+    <h1>Plugin Procedures</h1>
+
+	    <p>
+	        IMPORTANT: For all parameter descriptions below, required
+	        parameters are shown in <span class="required">bold
+	        italics</span>.
+	    </p>
+    </div>
+</body>
+</html>
